@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
             Bitmap imageBitmap = (Bitmap) data.getExtras().get("data");
 
-            String pred = classifier.Predict(imageBitmap);
+            String pred = classifier.predict(imageBitmap);
             resultView.putExtra("pred",pred);
 
             startActivity(resultView);

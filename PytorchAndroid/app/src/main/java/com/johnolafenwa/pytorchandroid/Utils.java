@@ -13,9 +13,6 @@ public class Utils {
 
     public static String assetFilePath(Context context, String assetName) {
         File file = new File(context.getFilesDir(), assetName);
-        if (file.exists() && file.length() > 0) {
-            return file.getAbsolutePath();
-        }
 
         try (InputStream is = context.getAssets().open(assetName)) {
             try (OutputStream os = new FileOutputStream(file)) {

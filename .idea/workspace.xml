@@ -12,55 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="948ffe60-c670-414a-8e4b-4ee3de16cee5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/.idea/render.experimental.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/androidTest/java/com/johnolafenwa/pytorchmobile/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/assets/mobilenet-v2.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/assets/tesla.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/java/com/johnolafenwa/pytorchmobile/Classifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/java/com/johnolafenwa/pytorchmobile/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/java/com/johnolafenwa/pytorchmobile/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/java/com/johnolafenwa/pytorchmobile/Result.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/layout/activity_result.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/layout/content_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/layout/content_result.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/app/src/test/java/com/johnolafenwa/pytorchmobile/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android sample/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/Classifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/Utils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,9 +73,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,10 +182,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3342282" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33377397" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -280,12 +235,6 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/johnolafenwa/pytorchmobile/Constants.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/johnolafenwa/pytorchmobile/Classifier.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/johnolafenwa/pytorchmobile/Result.java" />
-    <entry file="file://$PROJECT_DIR$/app/app.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.iml" />
   </component>
 </project>

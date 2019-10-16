@@ -51,7 +51,7 @@ public class Classifier {
         return maxIndex;
     }
 
-    public String Predict(Bitmap bitmap){
+    public String predict(Bitmap bitmap){
 
         Tensor tensor = preprocess(bitmap,224);
 
