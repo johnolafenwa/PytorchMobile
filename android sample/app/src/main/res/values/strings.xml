@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PytorchMobile</string>
+    <string name="title_activity_main">AI Scanner - Pytorch</string>
+    <string name="title_activity_result">Result</string>
+</resources>
