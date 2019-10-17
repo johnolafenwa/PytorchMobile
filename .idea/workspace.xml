@@ -13,10 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="948ffe60-c670-414a-8e4b-4ee3de16cee5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/Classifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/Classifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchAndroid/app/src/main/java/com/johnolafenwa/pytorchandroid/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PytorchAndroid/app/src/main/res/layout/content_result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PytorchAndroid/app/src/main/res/layout/content_result.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="185" />
     <option name="y" value="-10" />
     <option name="width" value="1750" />
@@ -73,7 +70,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PytorchMobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PytorchMobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PytorchMobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PytorchMobile" type="462c0819:PsiDirectoryNode" />
+              <item name="PytorchAndroid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PytorchMobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PytorchMobile" type="462c0819:PsiDirectoryNode" />
+              <item name="PytorchAndroid" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -182,6 +200,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33377397" />
