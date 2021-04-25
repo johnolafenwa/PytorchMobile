@@ -4,11 +4,14 @@ import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.provider.MediaStore;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
+
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
+
 import java.io.File;
 
 public class MainActivity extends AppCompatActivity {
@@ -46,18 +49,19 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
-    protected void onActivityResult(int requestCode, int resultCode, Intent data){
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
 
-        if(requestCode == cameraRequestCode && resultCode == RESULT_OK){
+        if (requestCode == cameraRequestCode && resultCode == RESULT_OK) {
 
-            Intent resultView = new Intent(this,Result.class);
+            Intent resultView = new Intent(this, Result.class);
 
-            resultView.putExtra("imagedata",data.getExtras());
+            resultView.putExtra("imagedata", data.getExtras());
 
             Bitmap imageBitmap = (Bitmap) data.getExtras().get("data");
 
             String pred = classifier.predict(imageBitmap);
-            resultView.putExtra("pred",pred);
+            resultView.putExtra("pred", pred);
 
             startActivity(resultView);
 
